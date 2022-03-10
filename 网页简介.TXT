@@ -1,0 +1,2 @@
+主题为传统节日，介绍了春节，清明节，中秋节的相关起源发展与习俗。首页为index.html，子页为chun.html ，qingming.html 
+ 以及zhongqiu.html。首页中开头有一个轮播图。(网页需使用谷歌浏览器打开)
