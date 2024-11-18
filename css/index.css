@@ -184,7 +184,8 @@ index3 a {
      
 }
 .focus ul li img {
-    width: 1280px;
+    /* width: 1280px; */
+    width: 100%;
     height:630px;
     
    
@@ -252,7 +253,7 @@ index3 a {
     margin-bottom:50px;
 }
 .special {
-    margin:0 120px;
+    /* margin:0 120px; */
     width: 1024px;
     height: 700px;
     
