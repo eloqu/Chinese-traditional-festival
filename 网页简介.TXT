@@ -1,2 +1,5 @@
-主题为传统节日，介绍了春节，清明节，中秋节的相关起源发展与习俗。首页为index.html，子页为chun.html ，qingming.html 
- 以及zhongqiu.html。首页中开头有一个轮播图。(网页需使用谷歌浏览器打开)
+主题为传统节日，介绍了春节，清明节，中秋节的相关起源发展与习俗。
+首页为index.html，子页为chun.html ，qingming.html 以及zhongqiu.html。
+  1、其中首页的布局有参照乌镇旅游官网https://www.ewuzhen.com/
+  2、网站图片素材大部分来自觅元素官网https://www.51yuansu.com/sc/ccjmkouban.html
+  每个账号每天应该是有几个免费下载的额度，每天都蹲这个免费的额度，没办法太穷了不想充会员
