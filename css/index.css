@@ -745,11 +745,6 @@ p {
 .clearfix {
     *zoom:1;
 }
-.inf-chun {
-    background-color:rgb(209, 87, 87,.5);
-  
-    height:420px;
-}
    
 .inf-chun h1 {
    margin-bottom:20px;
@@ -758,8 +753,10 @@ p {
     margin-bottom:20px;
 }
 .msg-chun {
-    width:1024px;
+    /* width:1024px; */
     margin:0 auto;
+    padding: 36px;
+    background-color:rgb(209, 87, 87,.5);
 }
 .msg {
     width:1024px;
@@ -768,14 +765,17 @@ p {
 
 .msg li {
     margin:0 auto;
-    height:100px;
+    /* height:100px; */
     margin-bottom:20px;
-
+}
+.msg li:last-child {
+    margin-bottom: 0px;
 }
 .msg a {
     font-size:18px;
     /* text-indent:2em; */
-    line-height:100px;
+    line-height:106px;
+    margin-left: 8px;
 }
 .msg p {
     font-size:15px;
@@ -784,8 +784,9 @@ p {
     float:left;
 }
 .pic img {
-    width:150px;
-    height:100px;
+    width: 170px;
+    border-radius: 4px;
+    height:106px;
 }
 
 
@@ -1660,12 +1661,12 @@ p {
 
 }
 
-
-.inf {
-    background-color: rgb(207, 141, 18,.4);
-    height:420px;
+.msg-qiu {
+  /* width:1024px; */
+  margin:0 auto;
+  padding: 36px;
+  background-color:rgb(207, 141, 18,.4);
 }
-
 
 
 
